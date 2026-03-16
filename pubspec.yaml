@@ -1,9 +1,9 @@
 name: zebra_usb_printer
 description: "A Flutter plugin for printing ZPL labels to Zebra USB printers on Android. Supports printing, printer status checks, and USB permission handling."
 version: 0.0.1
-homepage: https://github.com/sohaib6190/zebra_usb_printer
-repository: https://github.com/sohaib6190/zebra_usb_printer
-issue_tracker: https://github.com/sohaib6190/zebra_usb_printer/issues
+homepage: https://github.com/sohaib6190/Zebra-Usb-Printer-Package
+repository: https://github.com/sohaib6190/Zebra-Usb-Printer-Package
+issue_tracker: https://github.com/sohaib6190/Zebra-Usb-Printer-Package/issues
 
 environment:
   sdk: ">=3.7.0 <4.0.0"
